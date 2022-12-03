@@ -1,4 +1,4 @@
-#Jeopardy
+# Jeopardy
 
 A general purpose Jeopardy template, with a minimalist interface. Written as a webpage for ease of use.
 
